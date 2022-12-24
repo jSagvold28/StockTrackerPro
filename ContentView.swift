@@ -17,7 +17,7 @@ struct ContentView: View {
             
             List {
                 
-                Text("Your Favorite Stocks")
+                Text("Your Favorite Stocks:")
                     .bold()
                     .font(.title)
                     .bold()
